@@ -1,3 +1,3 @@
-#codeacademy-open-source
+# codeacademy-open-source
 
-This is my sample open source repository! woot woot
+This is my sample open-source repository! woot woot
